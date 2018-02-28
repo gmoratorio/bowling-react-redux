@@ -2,7 +2,7 @@
 
 ## Just like Bowling-Basic, but using React and Redux!
 
-###Instructions
+### Instructions
  * Clone this repo
  * `$ npm install`
  * `$ npm start`
