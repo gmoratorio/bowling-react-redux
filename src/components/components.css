@@ -1,0 +1,62 @@
+
+.game-container {
+    margin: auto;
+    margin-top: 2em;
+    margin-left: 0;
+}
+
+.confirm-button {
+    margin-top: 1em;
+}
+
+.error-text {
+    margin-top: 1em;
+    color: red;
+}
+
+.disable-link-defaults {
+    color: white;
+    text-decoration: none;
+}
+
+.disable-link-defaults:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.results-container {
+    display: flex;
+}
+
+.main-frame-box {
+    width: 8vw;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.top-row {
+    display: inline-block;
+}
+
+.second-box {
+    border-left: 1px solid black;
+}
+
+.number-divider {
+    border-bottom: 1px solid black;
+}
+
+.prompt-text {
+    margin-top: 1em;
+}
+
+.score-input {
+    width: 10vw;
+    margin-bottom: 0.25em;
+}
+
+.results-text {
+    margin-top: 0.5em;
+    margin-left: 2em;
+}
+
